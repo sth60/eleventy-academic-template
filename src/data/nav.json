@@ -11,9 +11,9 @@
             "title": "About"
         },
         {
-            "name": "CV",
-            "url": "/cv",
-            "title": "CV"
+            "name": "Portfolio",
+            "url": "/portfolio",
+            "title": "Portfolio"
         }
     ]
 }

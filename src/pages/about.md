@@ -4,7 +4,7 @@ permalink: /about/
 title: About
 ---
 
-<img src="docs/assets/images/Hege_Sam_Headshot.jpeg" alt="Getting started" />
+![Headshot](/Users/samhege/Documents/GitHub/sth60.github.io/docs/assets/images/hege_sam_headshot.jpeg)
 
 # Bio
 
